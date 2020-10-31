@@ -1,0 +1,7 @@
+name: Interact
+author: Fin/getQueryString
+version: 1.0
+main: Main.main
+commands:
+  invsee:
+    description: Schaue in andere Inventare.
